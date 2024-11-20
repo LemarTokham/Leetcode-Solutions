@@ -1,2 +1,2 @@
 # Leetcode-Solutions
-A journal ofmy journey through leetcode
+A journal of my journey through leetcode
